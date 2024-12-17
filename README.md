@@ -29,4 +29,4 @@ This is an interactive puzzle game built with HTML, CSS, and JavaScript (optiona
 
 ---
 
-This version includes the essentials of the project while being more compact.
+
