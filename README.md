@@ -5,6 +5,7 @@ This is an interactive puzzle game built with HTML, CSS, and JavaScript (optiona
 ![image](https://github.com/user-attachments/assets/679b37e4-999d-469b-8227-03791cc387a3)
 
 
+
 ### 🚀 Features
 - **Interactive Gameplay:** Drag-and-drop puzzle pieces to solve the puzzle.
 - **Timer & Score:** Tracks time taken and scores based on moves.
